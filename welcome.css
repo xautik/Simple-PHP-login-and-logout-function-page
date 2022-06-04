@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  
+}
+body{
+  background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(bck3.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+h6{
+  color: #000050;
+  font-size: 13px;
+}
+h2{
+  color: white;
+  font-size: 20px;
+}
+h5{
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: -80px;
+  color: #000050;
+}
+form input{
+  width: 100%;
+  padding: 10px 5px;
+  margin: 5px 0;
+  border: 0;
+  border-bottom: 1px solid #999;
+  outline: none;
+  background: transparent;
+}
+.btn-box{
+  width: 100%;
+  margin: 25px auto;
+  text-align: center;
+  align: center;
+}
+form button{
+  width: 80px;
+  height: 30px;
+  margin: 0 10px;
+  background: linear-gradient(to bottom, #000050, #005300);
+  border-radius: 10px;
+  border: 0;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+}
