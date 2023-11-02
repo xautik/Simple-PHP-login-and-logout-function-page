@@ -1,1 +1,1 @@
-# a simple html login form page.
+# a simple php page with login and logout function.
